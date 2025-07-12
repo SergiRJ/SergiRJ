@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SergiRJ
-- 👀 I’m interested in programming in general
-- 🌱 I’m currently learning React and Node.js as a springboard to become a fullstack developer
-- 📫 You can reach me on my e-mail ruizjuradosergio@gmail.com
+- 👋 Hi, I’m Sergio Ruiz Jurado @SergiRJ
 
 <!---
 SergiRJ/SergiRJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
